@@ -1,10 +1,10 @@
 
 import './App.css';
-
+import NavBar from './components/Navbar.js';
 function App() {
   return (
     <div className="App">
-      TODO:Fill In
+      <NavBar></NavBar>
     </div>
   );
 }
