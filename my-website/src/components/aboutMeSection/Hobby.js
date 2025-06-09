@@ -6,7 +6,7 @@ function Hobby(props) {
     }
     return (
         <div>
-            <h3>{props.hobby}</h3>
+            <h3 class = "p-2">{props.hobby}</h3>
             <ul>
                 {list_items}
             </ul>
