@@ -3,7 +3,7 @@ function Home() {
     //FIXME, IMG tag not working
     return(
         <div class = "container">
-            <div class = "row">
+            <div class = "row d-flex flex-row align-items-center">
                 <div class = "col">
                     <h1 class = "text-center">Chase Pham</h1>
                     <h2 class = "text-center">Software Engineer at Capital One</h2>
@@ -15,7 +15,7 @@ function Home() {
                     </ul>
                 </div>
                 <div class = "col d-flex justify-content-center">
-                    <img src = "./components/gradimg.png" alt = "test"/>
+                    <img class = "img-fluid" src = "images/gradimg.png" alt = "gradImGpng" width = "60%" height = "60%"/>
                 </div>                
             </div>
 
