@@ -1,7 +1,7 @@
 
 function Company(props) {
     return(
-        <div>
+        <div class = "d-flex justify-content-center">
             <p>{props.companyLogo}</p>
             <ul>
                 <p>{props.date}</p>
