@@ -1,12 +1,19 @@
 function Resume() {
-
-    return(
-        <div>
-            <h2 class = "text-center">Resume</h2>
-            <p class = "d-flex justify-content-center">Fill In resume, figure out what tag is used for documents later</p>
+    return (
+      <div className="container my-5">
+        <h2 className="text-center">Resume</h2>
+  
+        <div className="d-flex justify-content-center">
+          <iframe
+            src="/chasepham_resume.pdf"
+            title="Resume"
+            width="80%"
+            height="500px"
+            style={{ border: '1px solid #ccc', borderRadius: '8px' }}
+          ></iframe>
         </div>
-    )
-
-}
-
-export default Resume;
+      </div>
+    );
+  }
+  
+  export default Resume;
