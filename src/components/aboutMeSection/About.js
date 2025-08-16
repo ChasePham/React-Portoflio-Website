@@ -1,5 +1,16 @@
 import Hobby from "./Hobby.js"
 
+import snowboard from "../../images/snowboard.JPG"
+import hike from "../../images/hike.jpg"
+import miami from "../../images/miami.jpg"
+import boilerroom from "../../images/boilerroom.jpg"
+import beyond from "../../images/beyond.jpg"
+import asap from "../../images/asap.png"
+import dodgers from "../../images/dodgers.png"
+import nyc from "../../images/nyc.png"
+import lost from "../../images/lost.png"
+import griffith from "../../images/griffith.png"
+
 function About() {
 
     return(
@@ -13,7 +24,7 @@ function About() {
 
             </div>
             <div  class = "d-flex justify-content-center">
-                <Hobby pics = {['snowboard.jpg','hike.jpg','miami.jpg', 'boilerroom.jpg','beyond.jpg','asap.png','dodgers.png','nyc.png','lost.png','griffith.png']} hobby = "My Life" id_name = "life"></Hobby>
+            <Hobby pics={[snowboard, hike, miami, boilerroom, beyond, asap, dodgers, nyc, lost, griffith]} hobby="My Life" id_name="life" />
                 {/* <Hobby pics = {['boilerroom.jpg','cfg.jpg','beyond.jpg',]} hobby = "Music" id_name= "music"></Hobby> */}
             </div>
 

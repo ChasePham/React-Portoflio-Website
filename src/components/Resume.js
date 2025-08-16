@@ -1,3 +1,4 @@
+import resume from "../images/chasepham_resume.pdf"
 function Resume() {
     return (
       <div className="container my-5" id = "resume">
@@ -5,7 +6,7 @@ function Resume() {
   
         <div className="d-flex justify-content-center">
           <iframe
-            src="/chasepham_resume.pdf"
+            src={resume}
             title="Resume"
             width="80%"
             height="500px"

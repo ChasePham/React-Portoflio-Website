@@ -1,4 +1,4 @@
-
+import logo from "../images/gradimg.png"
 function Home() {
     //FIXME, IMG tag not working
     return(
@@ -51,7 +51,7 @@ function Home() {
                     </ul>
                 </div>
                 <div class = "col d-flex justify-content-center">
-                    <img class = "img-fluid" src = "images/gradimg.png" alt = "gradImGpng" width = "60%" height = "60%"/>
+                    <img class = "img-fluid" src = {logo} alt = "gradImGpng" width = "60%" height = "60%"/>
                 </div>                
             </div>
 

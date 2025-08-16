@@ -1,7 +1,7 @@
 
 function Hobby(props) {
         let list_items = props.pics.map((pic, i) => {
-            let src = "images/" + pic;
+            let src = pic;
             return (
                 <img
                     key={i}
