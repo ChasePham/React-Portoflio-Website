@@ -1,6 +1,6 @@
 function Resume() {
     return (
-      <div className="container my-5">
+      <div className="container my-5" id = "resume">
         <h2 className="text-center">Resume</h2>
   
         <div className="d-flex justify-content-center">

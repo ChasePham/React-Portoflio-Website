@@ -3,11 +3,11 @@ import Hobby from "./Hobby.js"
 function About() {
 
     return(
-        <div>
+        <div id = "about">
             <div class = "d-flex justify-content-center">
                 <div>
                     <h2 class = "text-center">About me</h2>
-                    <p class = "text-center">Currently, working at Capital One in DC as a Software Engineer focusing on full stack development. I recently graduated from the University of Texas at Austin where I studied Neuroscience and programming. On top of that, I've spent most of my learning tinkering on a variety of programming projects and networking with other like-minded software engineers, and I'm always looking for new ways to expand my skillset!
+                    <p class = "text-center">Currently, working at Capital One in DC as a Software Engineer focusing on full stack development. I recently graduated from the University of Texas at Austin where I studied Neuroscience and programming. On top of that, I've spent most of my learning tinkering on a variety of programming projects and networking with other like-minded software engineers, and I'm always looking for new ways to expand my skillset! Here are some life pics :O
 </p>
                 </div>
 

@@ -2,7 +2,7 @@
 function Home() {
     //FIXME, IMG tag not working
     return(
-        <div class = "container">
+        <div class = "container" id = "home">
             <div class = "row d-flex flex-row align-items-center">
                 <div class = "col">
                     <h1 class = "text-center">Chase Pham</h1>
