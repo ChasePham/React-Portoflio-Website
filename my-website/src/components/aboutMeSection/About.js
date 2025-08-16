@@ -13,7 +13,7 @@ function About() {
 
             </div>
             <div  class = "d-flex justify-content-center">
-                <Hobby pics = {['snowboard.jpg','hike.jpg','miami.jpg', 'boilerroom.jpg','beyond.jpg']} hobby = "My Life" id_name = "life"></Hobby>
+                <Hobby pics = {['snowboard.jpg','hike.jpg','miami.jpg', 'boilerroom.jpg','beyond.jpg','asap.png','dodgers.png','nyc.png','lost.png','griffith.png']} hobby = "My Life" id_name = "life"></Hobby>
                 {/* <Hobby pics = {['boilerroom.jpg','cfg.jpg','beyond.jpg',]} hobby = "Music" id_name= "music"></Hobby> */}
             </div>
 
