@@ -1,5 +1,5 @@
 
-import Company from "./Company.js"
+import Company from "./Company.js.js"
 
 function Experience() {
     let company_description_1 = 'Contributed to the launch of Melio widgets developed with Angular on the Capital One official website for small business bank (SBB) accounts to increase outbound digital money movement engagement rate to 56\%. \n Spearheaded the development of live dependency tests for widgets including creating feature toggles on Optimizely. \n Quarterbacked the migration of SBB’s Accounts Payables Insights API from Gen2 to Gen3 to lower the blast radius of the application and reduce technical debt, by segmenting Capital One’s workload environment into smaller AWS units. \nConfigured the small business banking fraud check API to OpenTelemetry standards that enables distributed tracing in order to enhance the full stack observability journey, reducing the mean time to repair and detect'
