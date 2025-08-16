@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Portoflio-Website/static/css/main.cb3cf381.css",
-    "main.js": "/React-Portoflio-Website/static/js/main.ecfb8bd6.js",
-    "static/js/453.195b869a.chunk.js": "/React-Portoflio-Website/static/js/453.195b869a.chunk.js",
+    "main.js": "/React-Portoflio-Website/static/js/main.b5d343cc.js",
+    "static/js/453.2291aba8.chunk.js": "/React-Portoflio-Website/static/js/453.2291aba8.chunk.js",
     "static/media/dodgers.png": "/React-Portoflio-Website/static/media/dodgers.163b6c036be8c139c0fb.png",
     "static/media/nyc.png": "/React-Portoflio-Website/static/media/nyc.e88b878790a082785bfa.png",
     "static/media/asap.png": "/React-Portoflio-Website/static/media/asap.d514bda41076d7607161.png",
@@ -19,11 +19,11 @@
     "static/media/capitalone.png": "/React-Portoflio-Website/static/media/capitalone.4affbb8ab0810884d06d.png",
     "index.html": "/React-Portoflio-Website/index.html",
     "main.cb3cf381.css.map": "/React-Portoflio-Website/static/css/main.cb3cf381.css.map",
-    "main.ecfb8bd6.js.map": "/React-Portoflio-Website/static/js/main.ecfb8bd6.js.map",
-    "453.195b869a.chunk.js.map": "/React-Portoflio-Website/static/js/453.195b869a.chunk.js.map"
+    "main.b5d343cc.js.map": "/React-Portoflio-Website/static/js/main.b5d343cc.js.map",
+    "453.2291aba8.chunk.js.map": "/React-Portoflio-Website/static/js/453.2291aba8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb3cf381.css",
-    "static/js/main.ecfb8bd6.js"
+    "static/js/main.b5d343cc.js"
   ]
 }
