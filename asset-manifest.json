@@ -1,15 +1,29 @@
 {
   "files": {
     "main.css": "/React-Portoflio-Website/static/css/main.cb3cf381.css",
-    "main.js": "/React-Portoflio-Website/static/js/main.a3c53230.js",
+    "main.js": "/React-Portoflio-Website/static/js/main.ecfb8bd6.js",
     "static/js/453.195b869a.chunk.js": "/React-Portoflio-Website/static/js/453.195b869a.chunk.js",
+    "static/media/dodgers.png": "/React-Portoflio-Website/static/media/dodgers.163b6c036be8c139c0fb.png",
+    "static/media/nyc.png": "/React-Portoflio-Website/static/media/nyc.e88b878790a082785bfa.png",
+    "static/media/asap.png": "/React-Portoflio-Website/static/media/asap.d514bda41076d7607161.png",
+    "static/media/griffith.png": "/React-Portoflio-Website/static/media/griffith.2874496b2b58952d4a07.png",
+    "static/media/hike.jpg": "/React-Portoflio-Website/static/media/hike.9e3aad17f1cc9d74e147.jpg",
+    "static/media/beyond.jpg": "/React-Portoflio-Website/static/media/beyond.cf1996c3838dee6112e2.jpg",
+    "static/media/snowboard.JPG": "/React-Portoflio-Website/static/media/snowboard.f2f2cb399c3bae7e1325.JPG",
+    "static/media/miami.jpg": "/React-Portoflio-Website/static/media/miami.81d5c5537777ddacad3e.jpg",
+    "static/media/boilerroom.jpg": "/React-Portoflio-Website/static/media/boilerroom.afef8691dd2178dd7303.jpg",
+    "static/media/lost.png": "/React-Portoflio-Website/static/media/lost.63139578a6e5542d6fd4.png",
+    "static/media/gradimg.png": "/React-Portoflio-Website/static/media/gradimg.cc9632ad24059e810bce.png",
+    "static/media/chasepham_resume.pdf": "/React-Portoflio-Website/static/media/chasepham_resume.2fdaac5b151eef4f9d67.pdf",
+    "static/media/texas.png": "/React-Portoflio-Website/static/media/texas.95eec10df9b7c354fa85.png",
+    "static/media/capitalone.png": "/React-Portoflio-Website/static/media/capitalone.4affbb8ab0810884d06d.png",
     "index.html": "/React-Portoflio-Website/index.html",
     "main.cb3cf381.css.map": "/React-Portoflio-Website/static/css/main.cb3cf381.css.map",
-    "main.a3c53230.js.map": "/React-Portoflio-Website/static/js/main.a3c53230.js.map",
+    "main.ecfb8bd6.js.map": "/React-Portoflio-Website/static/js/main.ecfb8bd6.js.map",
     "453.195b869a.chunk.js.map": "/React-Portoflio-Website/static/js/453.195b869a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb3cf381.css",
-    "static/js/main.a3c53230.js"
+    "static/js/main.ecfb8bd6.js"
   ]
 }
