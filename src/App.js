@@ -6,9 +6,9 @@ import About from './components/aboutMeSection/About.js'
 import Experience from './components/experienceSection/Experience.js'
 import Resume from './components/Resume.js';
 function App() {
-  console.log('test')
   return (
     <div>
+      <h1>"test</h1>
       <NavBar></NavBar>
       <Home></Home>
       <About></About>
