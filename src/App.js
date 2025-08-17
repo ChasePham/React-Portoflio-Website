@@ -8,7 +8,6 @@ import Resume from './components/Resume.js';
 function App() {
   return (
     <div>
-      <h1>"test</h1>
       <NavBar></NavBar>
       <Home></Home>
       <About></About>
